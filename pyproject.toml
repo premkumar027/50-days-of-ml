@@ -1,12 +1,16 @@
 [project]
-name = "old-way"
+name = "50-days-of-ml"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipykernel>=6.30.0",
     "matplotlib>=3.10.3",
+    "mysql-connector>=2.2.9",
     "numpy>=2.3.2",
+    "opendatasets>=0.1.22",
     "pandas>=2.3.1",
+    "requests>=2.32.4",
     "seaborn>=0.13.2",
 ]
