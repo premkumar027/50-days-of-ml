@@ -1,0 +1,21 @@
+# Python bytecode files
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+env/
+__pycache__/
+
+# Package manager lock files
+uv.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
