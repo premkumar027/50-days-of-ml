@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dtale>=3.17.0",
     "ipykernel>=6.30.0",
     "matplotlib>=3.10.3",
     "mysql-connector>=2.2.9",
@@ -14,4 +15,5 @@ dependencies = [
     "requests>=2.32.4",
     "scipy>=1.16.1",
     "seaborn>=0.13.2",
+    "sweetviz>=2.3.1",
 ]
